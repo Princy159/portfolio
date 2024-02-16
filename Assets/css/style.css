@@ -1,0 +1,17 @@
+* {
+  color: rgb(167, 207, 22);
+  background-color: darkolivegreen;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+header {
+  background-color: blueviolet;
+}
+p {
+  color: rgb(0, 166, 255);
+}
+#formation {
+  color: crimson;
+}
+table {
+  border: 3px cornsilk solid;
+}
